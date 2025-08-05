@@ -1,0 +1,32 @@
+# Node.js
+backend/node_modules/
+backend/.env
+backend/package-lock.json
+
+# React
+frontend/node_modules/
+frontend/.env
+frontend/package-lock.json
+frontend/.next/
+frontend/build/
+frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
